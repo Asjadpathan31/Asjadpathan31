@@ -132,7 +132,7 @@ const asjad = {
 <a href="https://www.linkedin.com/in/asjad-pathan-b12b842ba?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Asjadpathan31/portfolio">
+<a href="https://asjadpathan31.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://twitter.com/YOUR_TWITTER">
