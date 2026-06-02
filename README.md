@@ -87,9 +87,9 @@ const asjad = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asjadpathan31&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asjadpathan31&theme=tokyonight" alt="Asjadpathan31 Trophies" />
+</p>
 
 ---
 
@@ -97,21 +97,17 @@ const asjad = {
 
 <div align="center">
 
-<a href="https://github.com/Asjadpathan31/EstateX">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadpathan31&repo=EstateX&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Asjadpathan31/mern-study-planner">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadpathan31&repo=mern-study-planner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<a href="https://github.com/Asjadpathan31/Estatex">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadpathan31&repo=Estatex&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Asjadpathan31/fittrack-pro">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadpathan31&repo=fittrack-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadpathan31&repo=fittrack-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Asjadpathan31/portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadpathan31&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Asjadpathan31&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -151,9 +147,11 @@ const asjad = {
 <br/>
 
 <!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
