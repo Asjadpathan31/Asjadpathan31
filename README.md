@@ -75,14 +75,14 @@ const asjad = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api?username=Asjadpathan31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Asjadpathan31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asjadpathan31&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/top-langs/?username=Asjadpathan31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Asjadpathan31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -90,7 +90,7 @@ const asjad = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asjadpathan31&theme=tokyonight&margin-w=15&margin-h=15" alt="Asjadpathan31 Trophies" width="100%" />
+  <img src="https://github-profile-trophy-six.vercel.app/?username=Asjadpathan31&theme=tokyonight&margin-w=15&margin-h=15" alt="Asjadpathan31 Trophies" width="100%" />
 </p>
 
 ---
@@ -102,19 +102,19 @@ const asjad = {
     <tr>
       <td>
         <a href="https://github.com/Asjadpathan31/Estatex">
-          <img width="380px" src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/pin/?username=Asjadpathan31&repo=Estatex&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+          <img width="380px" src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Asjadpathan31&repo=Estatex&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Asjadpathan31/fittrack-pro">
-          <img width="380px" src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/pin/?username=Asjadpathan31&repo=fittrack-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+          <img width="380px" src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Asjadpathan31&repo=fittrack-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/Asjadpathan31/portfolio">
-          <img width="380px" src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/pin/?username=Asjadpathan31&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+          <img width="380px" src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Asjadpathan31&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
         </a>
       </td>
     </tr>
