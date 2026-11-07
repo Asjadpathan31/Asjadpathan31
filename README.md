@@ -38,7 +38,6 @@ I'm a Computer Science & Engineering student based in Pune, India. I enjoy turni
 |---|---|
 | [EstateX Light](https://github.com/Asjadpathan31/EstateX-light) | Real-estate web application built with React and Flask |
 | [FitTrack Pro](https://github.com/Asjadpathan31/fittrack-pro) | Fitness-tracking project with a React frontend and Express API |
-| [Smart College Complaint System](https://github.com/Asjadpathan31/SmartCollegeComplaint-system) | Flask and MySQL complaint-management academic project |
 | [Portfolio](https://github.com/Asjadpathan31/portfolio) | Personal portfolio with an interactive Three.js hero |
 
 ## Connect
