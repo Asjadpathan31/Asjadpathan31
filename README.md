@@ -1,117 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:312e81,100:701a75&text=ASJAD%20PATHAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20AI%20ENGINEERING%20EXPLORER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Asjad Pathan profile banner" />
+<img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/main/assets/profile-hero.svg" width="100%" alt="Asjad Pathan — Full-Stack Developer and AI Engineering Explorer" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+useful+web+applications;Learning+full-stack+engineering;Exploring+practical+AI+integrations;Turning+ideas+into+working+software" alt="Animated typing introduction" />
-</a>
+<br/>
 
-<p>
-  <a href="https://asjadpathan31.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/asjad-pathan/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<a href="https://asjadpathan31.github.io/portfolio/"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/asjad-pathan/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Asjadpathan31?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-20232A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=17&duration=2600&pause=900&color=9B8AFB&center=true&vCenter=true&width=760&lines=I+build+web+experiences+that+solve+real+problems.;I+explore+AI+that+makes+software+more+useful.;I+learn+by+building%2C+testing%2C+and+improving." alt="Animated introduction" />
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
-
-I'm a Computer Science & Engineering student based in Pune, India, interested in building useful software and understanding how products work end to end.
-
-- **Currently focused on:** Full-stack development and strong software engineering fundamentals
-- **Exploring:** Practical AI integrations and AI-powered product experiences
-- **I enjoy:** Building projects, solving problems, and learning by shipping
-- **Approach:** Stay curious, build consistently, improve through feedback
-
----
-
-## ◈ TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,nodejs,express,mysql,mongodb,sqlite,git,github,vscode,postman&perline=9" alt="Technologies used in current learning and project work" />
-</p>
-
-<p align="center"><sub>These are technologies present in my learning and project work — not a claim of expert-level proficiency in every tool.</sub></p>
-
----
-
-## ◈ SELECTED BUILDS
-
-<div align="center">
-
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
-  <a href="https://github.com/Asjadpathan31/EstateX-light">
-    <img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/profile/3d-project-showcase/assets/estatex-card.svg" width="100%" alt="EstateX Light — premium real-estate project visual" />
-  </a>
-  <br/>
-  <a href="https://github.com/Asjadpathan31/EstateX-light"><strong>EXPLORE ESTATEX ↗</strong></a>
-  <br/><sub>React · Flask · JWT</sub>
+<td width="58%" valign="top">
+
+### THE PERSON BEHIND THE BUILDS
+
+I'm **Asjad Afzal Pathan**, a Computer Science & Engineering student based in Pune, India.
+
+I enjoy turning ideas into working software — from thoughtful interfaces and backend workflows to exploring practical AI integrations.
+
+- **Building:** Full-stack web applications
+- **Exploring:** AI-powered product experiences
+- **Learning:** Software engineering, databases and system design
+- **Mindset:** Build → test → learn → improve
+
 </td>
-<td width="50%" valign="top" align="center">
-  <a href="https://github.com/Asjadpathan31/fittrack-pro">
-    <img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/profile/3d-project-showcase/assets/fittrack-card.svg" width="100%" alt="FitTrack Pro — premium fitness dashboard project visual" />
-  </a>
-  <br/>
-  <a href="https://github.com/Asjadpathan31/fittrack-pro"><strong>EXPLORE FITTRACK ↗</strong></a>
-  <br/><sub>React · Express · MongoDB</sub>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <a href="https://asjadpathan31.github.io/portfolio/">
-    <img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/profile/3d-project-showcase/assets/portfolio-card.svg" width="82%" alt="Personal portfolio — interactive portfolio project visual" />
-  </a>
-  <br/>
-  <a href="https://asjadpathan31.github.io/portfolio/"><strong>VISIT LIVE PORTFOLIO ↗</strong></a>
-  ·
-  <a href="https://github.com/Asjadpathan31/portfolio"><strong>VIEW SOURCE ↗</strong></a>
-  <br/><sub>HTML · CSS · JavaScript · Three.js</sub>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://github.com/Asjadpathan31.png" width="190" alt="Asjad Pathan GitHub avatar" />
+
+<br/>
+
+**ASJAD PATHAN**
+
+<sub>Developer · Builder · Learner</sub>
+
+<br/><br/>
+
+<sub>📍 Pune, India</sub>
+
 </td>
 </tr>
 </table>
 
-<sub>Project visuals are custom-designed concept artwork, not screenshots of verified live application screens.</sub>
-
-</div>
-
----
-
-## ◈ GITHUB ACTIVITY
+## WHAT I WORK WITH
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asjadpathan31&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asjadpathan31&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" alt="Most used languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,nodejs,express,mysql,mongodb,sqlite,git,github,vscode,postman&perline=8" alt="Technologies used across current learning and projects" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Asjadpathan31&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+<sub>These icons represent technologies present in my learning and project work — not expert-level proficiency in every tool.</sub>
 
 </div>
 
----
+## SELECTED PROJECTS
 
-## ◈ LET'S CONNECT
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Asjadpathan31/EstateX-light">
+<img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/main/assets/estatex-card.svg" width="100%" alt="EstateX Light project artwork"/>
+</a>
+
+### EstateX Light
+
+A real-estate web application with property discovery, search filters and account workflows.
+
+<sub>REACT · FLASK · JWT</sub>
+
+**[SOURCE CODE ↗](https://github.com/Asjadpathan31/EstateX-light)**
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Asjadpathan31/fittrack-pro">
+<img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/main/assets/fittrack-card.svg" width="100%" alt="FitTrack Pro project artwork"/>
+</a>
+
+### FitTrack Pro
+
+A fitness-tracking application with workout records, streak tracking and progress history.
+
+<sub>REACT · EXPRESS · MONGODB</sub>
+
+**[SOURCE CODE ↗](https://github.com/Asjadpathan31/fittrack-pro)**
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://asjadpathan31.github.io/portfolio/">
+<img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/main/assets/portfolio-card.svg" width="78%" alt="Personal portfolio project artwork"/>
+</a>
+
+### Personal Portfolio
+
+An interactive personal website with a real-time Three.js hero experience.
+
+<sub>HTML · CSS · JAVASCRIPT · THREE.JS</sub>
+
+**[LIVE WEBSITE ↗](https://asjadpathan31.github.io/portfolio/)** · **[SOURCE CODE ↗](https://github.com/Asjadpathan31/portfolio)**
+</td>
+</tr>
+</table>
+
+<sub>Project illustrations are custom concept artwork. They are not screenshots of verified live application screens; use the source repositories to inspect implementations.</sub>
+
+## GITHUB / BUILDING IN PUBLIC
 
 <div align="center">
 
-**Have an idea, opportunity, or project to discuss? Let's connect.**
-
-<a href="https://www.linkedin.com/in/asjad-pathan/">LinkedIn</a> ·
-<a href="https://github.com/Asjadpathan31">GitHub</a> ·
-<a href="https://asjadpathan31.github.io/portfolio/">Portfolio</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Asjadpathan31&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B9A2FF&icon_color=65E5D4&text_color=E6E1F0&rank_icon=github" height="165" alt="GitHub profile statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asjadpathan31&layout=compact&hide_border=true&bg_color=0D1117&title_color=B9A2FF&text_color=E6E1F0" height="165" alt="Most used languages"/>
 
 <br/>
 
-<sub>Building in public. Learning every day. Improving one commit at a time.</sub>
+<img src="https://streak-stats.demolab.com?user=Asjadpathan31&hide_border=true&background=0D1117&ring=B9A2FF&fire=F59ECA&currStreakLabel=65E5D4&sideLabels=E6E1F0&dates=8D879C" width="76%" alt="GitHub contribution streak"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:701a75,50:312e81,100:0f172a&height=100&section=footer" width="100%" alt="" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph"/>
+
+</div>
+
+## LET'S CONNECT
+
+<div align="center">
+
+**Interested in building something useful together?**
+
+<a href="https://www.linkedin.com/in/asjad-pathan/">LINKEDIN ↗</a> &nbsp; · &nbsp;
+<a href="https://github.com/Asjadpathan31">GITHUB ↗</a> &nbsp; · &nbsp;
+<a href="https://asjadpathan31.github.io/portfolio/">PORTFOLIO ↗</a>
+
+<br/><br/>
+
+<sub>MAKE IT WORK. MAKE IT CLEAR. MAKE IT BETTER.</sub>
 
 </div>
