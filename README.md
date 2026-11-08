@@ -9,7 +9,6 @@
 <p>
   <a href="https://asjadpathan31.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/asjad-pathan/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:asjad.pathan.dev@gmail.com"><img src="https://img.shields.io/badge/CONTACT-Say%20Hello-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 </p>
 
 </div>
@@ -30,7 +29,7 @@ I'm a Computer Science & Engineering student based in Pune, India, interested in
 ## ◈ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,nodejs,express,java,cpp,mysql,mongodb,sqlite,git,github,vscode,postman&perline=9" alt="Technologies used in current learning and project work" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,nodejs,express,mysql,mongodb,sqlite,git,github,vscode,postman&perline=9" alt="Technologies used in current learning and project work" />
 </p>
 
 <p align="center"><sub>These are technologies present in my learning and project work — not a claim of expert-level proficiency in every tool.</sub></p>
