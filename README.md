@@ -36,32 +36,46 @@ I'm a Computer Science & Engineering student based in Pune, India, interested in
 
 ---
 
-## ◈ FEATURED WORK
+## ◈ SELECTED BUILDS
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏡 EstateX Light</h3>
-      <p>A real-estate web application with a React frontend and Flask API.</p>
-      <p><sub>React · Flask · JWT · SQLite</sub></p>
-      <a href="https://github.com/Asjadpathan31/EstateX-light">VIEW REPOSITORY ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💪 FitTrack Pro</h3>
-      <p>A fitness-tracking application with a React frontend and Express API.</p>
-      <p><sub>React · Node.js · Express · MongoDB</sub></p>
-      <a href="https://github.com/Asjadpathan31/fittrack-pro">VIEW REPOSITORY ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>✦ Personal Portfolio</h3>
-      <p>A dark, interactive portfolio built to present my work and developer journey.</p>
-      <a href="https://github.com/Asjadpathan31/portfolio">SOURCE CODE ↗</a> ·
-      <a href="https://asjadpathan31.github.io/portfolio/">LIVE PORTFOLIO ↗</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/Asjadpathan31/EstateX-light">
+    <img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/profile/3d-project-showcase/assets/estatex-card.svg" width="100%" alt="EstateX Light — premium real-estate project visual" />
+  </a>
+  <br/>
+  <a href="https://github.com/Asjadpathan31/EstateX-light"><strong>EXPLORE ESTATEX ↗</strong></a>
+  <br/><sub>React · Flask · JWT</sub>
+</td>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/Asjadpathan31/fittrack-pro">
+    <img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/profile/3d-project-showcase/assets/fittrack-card.svg" width="100%" alt="FitTrack Pro — premium fitness dashboard project visual" />
+  </a>
+  <br/>
+  <a href="https://github.com/Asjadpathan31/fittrack-pro"><strong>EXPLORE FITTRACK ↗</strong></a>
+  <br/><sub>React · Express · MongoDB</sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <a href="https://asjadpathan31.github.io/portfolio/">
+    <img src="https://raw.githubusercontent.com/Asjadpathan31/Asjadpathan31/profile/3d-project-showcase/assets/portfolio-card.svg" width="82%" alt="Personal portfolio — interactive portfolio project visual" />
+  </a>
+  <br/>
+  <a href="https://asjadpathan31.github.io/portfolio/"><strong>VISIT LIVE PORTFOLIO ↗</strong></a>
+  ·
+  <a href="https://github.com/Asjadpathan31/portfolio"><strong>VIEW SOURCE ↗</strong></a>
+  <br/><sub>HTML · CSS · JavaScript · Three.js</sub>
+</td>
+</tr>
 </table>
+
+<sub>Project visuals are custom-designed concept artwork, not screenshots of verified live application screens.</sub>
+
+</div>
 
 ---
 

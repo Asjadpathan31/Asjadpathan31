@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171124"/><stop offset=".55" stop-color="#241a38"/><stop offset="1" stop-color="#0b0c18"/></linearGradient>
+ <linearGradient id="neon" x2="1" y2="1"><stop stop-color="#ffb86b"/><stop offset="1" stop-color="#ff5b9b"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feGaussianBlur stdDeviation="20"/></filter>
+</defs>
+<rect width="960" height="560" rx="34" fill="url(#bg)"/>
+<circle cx="760" cy="150" r="190" fill="#ff4f91" opacity=".16" filter="url(#shadow)"/>
+<circle cx="180" cy="460" r="170" fill="#9b68ff" opacity=".17" filter="url(#shadow)"/>
+<path d="M0 450 Q260 360 490 480 T960 420 V560 H0Z" fill="#090914" opacity=".7"/>
+<g transform="translate(55 105)">
+ <text x="0" y="0" fill="#ff9bbd" font-family="Arial" font-size="17" font-weight="700" letter-spacing="4">FITTRACK PRO</text>
+ <text x="0" y="58" fill="#fff" font-family="Arial" font-size="43" font-weight="700">Make every</text>
+ <text x="0" y="106" fill="#fff" font-family="Arial" font-size="43" font-weight="700">rep count.</text>
+ <text x="0" y="148" fill="#c2b4d1" font-family="Arial" font-size="17">Track workouts. Build consistency.</text>
+ <rect x="0" y="190" width="180" height="48" rx="13" fill="url(#neon)"/>
+ <text x="90" y="221" text-anchor="middle" fill="#26101e" font-family="Arial" font-size="15" font-weight="700">TRACK PROGRESS ↗</text>
+ <text x="0" y="300" fill="#e5d8ee" font-family="Arial" font-size="15">REACT  /  EXPRESS  /  MONGODB</text>
+</g>
+<g transform="rotate(5 610 270)">
+ <rect x="365" y="110" width="510" height="340" rx="24" fill="#000" opacity=".45" filter="url(#shadow)"/>
+ <rect x="350" y="92" width="510" height="340" rx="22" fill="#171421" stroke="#fff" stroke-opacity=".24"/>
+ <text x="385" y="135" fill="#fff" font-family="Arial" font-size="20" font-weight="700">Your training overview</text>
+ <text x="385" y="161" fill="#a89ab8" font-family="Arial" font-size="12">WEEKLY PERFORMANCE</text>
+ <rect x="385" y="185" width="205" height="112" rx="16" fill="#2b203b"/>
+ <text x="405" y="218" fill="#c9b6df" font-family="Arial" font-size="13">WORKOUTS</text>
+ <text x="405" y="267" fill="#fff" font-family="Arial" font-size="43" font-weight="700">05</text>
+ <rect x="610" y="185" width="205" height="112" rx="16" fill="#302039"/>
+ <text x="630" y="218" fill="#e9a9c5" font-family="Arial" font-size="13">ACTIVE STREAK</text>
+ <text x="630" y="267" fill="#fff" font-family="Arial" font-size="43" font-weight="700">12 <tspan font-size="18">days</tspan></text>
+ <rect x="385" y="315" width="430" height="90" rx="16" fill="#211a2e"/>
+ <text x="405" y="344" fill="#c9b6df" font-family="Arial" font-size="13">ACTIVITY THIS WEEK</text>
+ <g fill="url(#neon)">
+  <rect x="410" y="370" width="25" height="20" rx="5"/><rect x="460" y="355" width="25" height="35" rx="5"/>
+  <rect x="510" y="362" width="25" height="28" rx="5"/><rect x="560" y="340" width="25" height="50" rx="5"/>
+  <rect x="610" y="350" width="25" height="40" rx="5"/><rect x="660" y="330" width="25" height="60" rx="5"/>
+  <rect x="710" y="345" width="25" height="45" rx="5"/>
+ </g>
+ <path d="M398 396 H800" stroke="#6c5b7c" stroke-width="1"/>
+</g>
+<text x="905" y="520" text-anchor="end" fill="#9c829f" font-family="Arial" font-size="13" letter-spacing="3">02 / FITNESS TRACKING</text>
+</svg>
